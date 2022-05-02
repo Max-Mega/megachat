@@ -1,0 +1,29 @@
+{
+  "name": "megachat",
+  "version": "0.1.0",
+  "description": "Mega Chat",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Max_Mega#5855",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Max-Mega/megachat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "bugs": {
+    "url": "https://github.com/Max-Mega/megachat/issues"
+  },
+  "homepage": "https://github.com/Max-Mega/megachat#readme"
+}
